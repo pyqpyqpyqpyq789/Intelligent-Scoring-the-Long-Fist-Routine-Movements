@@ -4,7 +4,7 @@
 ![1734450362258](https://github.com/user-attachments/assets/45f11b19-2329-4202-8345-c68ad313f291)
 
 An explanatory note is coming soon.
-Please consider citing this work if you find this repo is useful for your projects.
+Please consider citing these works if you find this repo is useful for your projects.
 ```
 Yiqun Pang, Kaiqi Zhang, and Fengmei Li. Explainable Quality Assessment of Effective Aligned Skeletal Representations for Martial Arts Movements by Multi-machine Learning Decisions. Scientific Reports
 ```
