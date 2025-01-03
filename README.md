@@ -6,10 +6,18 @@
 An explanatory note is coming soon.
 Please consider citing these works if you find this repo is useful for your projects.
 ```
-Yiqun Pang, Kaiqi Zhang, and Fengmei Li. Explainable Quality Assessment of Effective Aligned Skeletal Representations for Martial Arts Movements by Multi-machine Learning Decisions. Scientific Reports
+@article{pang2025,
+author = {Yiqun Pang, Kaiqi Zhang, and Fengmei Li},
+title ={Explainable Quality Assessment of Effective Aligned Skeletal Representations for Martial Arts Movements by Multi-machine Learning Decisions},
+journal = {Scientific Reports},
+volume = {15},
+number = {323},
+pages = {1-16},
+year = {2025},
+doi = {10.1038/s41598-024-83475-4}}
 ```
 ```
-@article{AIMartialArts,
+@article{pang2024,
 author = {Yiqun Pang and Yibing Wang and Qiurui Wang and Fengmei Li and Changnian Zhang and Chuanwei Ding},
 title ={Applications of AI in martial arts: A survey},
 journal = {Proceedings of the Institution of Mechanical Engineers, Part P: Journal of Sports Engineering and Technology},
@@ -20,7 +28,7 @@ year = {0},
 doi = {10.1177/17543371241273827}}
 ```
 ```
-@INPROCEEDINGS{CVMartialArts,
+@INPROCEEDINGS{pang2022,
   author={Pang, Yiqun and Wang, Qiurui and Zhang, Changnian and Wang, Mingyang and Wang, Yibing},
   booktitle={2022 2nd International Conference on Consumer Electronics and Computer Engineering (ICCECE)}, 
   title={Analysis of Computer Vision Applied in Martial Arts}, 
